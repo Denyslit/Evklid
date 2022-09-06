@@ -302,6 +302,8 @@
   }
 
   .footer__social {
+   padding-bottom: 5px;
+    gap:25px
     align-self: center;
   }
 
